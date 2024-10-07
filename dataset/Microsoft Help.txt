@@ -1,0 +1,9 @@
+@MicrosoftHelps - Windows 11 Issues
+
+After the latest Windows 11 update, users are experiencing a variety of problems. Some have noted that their systems freeze unexpectedly, while others are reporting compatibility issues with older applications. The new update has also caused Wi-Fi connectivity issues for some, where the connection keeps dropping intermittently.
+
+Microsoft's customer service team has suggested rolling back to a previous update or performing a clean installation of Windows, but these solutions are not ideal for all users. There’s growing frustration, particularly among those who rely on their PCs for work. Microsoft has yet to provide an official statement addressing these widespread issues, though many expect a patch in the coming weeks.
+
+For more information, users can visit https://www.MicrosoftSupport.com
+
+#Windows11 #MicrosoftUpdateIssues

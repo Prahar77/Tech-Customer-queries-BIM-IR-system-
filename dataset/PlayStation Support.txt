@@ -1,0 +1,9 @@
+@PlayStationSupport - Controller Drift
+
+@PlayStationSupport I’m experiencing some serious controller drift on my DualSense 😕. Whenever I play any game, my character moves on its own, especially to the left. I’ve tried recalibrating it, but it doesn’t seem to fix the issue. It’s starting to get super annoying, especially when I’m playing competitive games like FIFA and Call of Duty. 🎮
+
+I’ve heard some people talking about this being a hardware issue with the thumbstick, but I don’t want to buy a new controller just yet. Can you recommend a workaround or solution?
+
+Check out more troubleshooting steps here: https://support.playstation.com
+
+#PS5ControllerDrift #GamingProblems

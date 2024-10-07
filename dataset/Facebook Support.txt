@@ -1,0 +1,9 @@
+@FacebookSupport - Account Lock Issues
+
+Numerous Facebook users have found their accounts locked without warning, particularly after a recent security update. Many users have reported receiving a message that their account is under review, but no further communication has been provided. Attempts to reset passwords or verify identities have not been successful for some.
+
+Facebook’s support team is responding on social media, directing users to their account recovery page, but several people have reported long wait times before receiving any resolution. This has caused frustration among users, especially those who rely on Facebook for business purposes. There’s a growing demand for quicker resolution times and better communication from Facebook regarding account security protocols.
+
+For more help, visit https://www.Facebook.com
+
+#FacebookAccountLocked #FacebookSupport

@@ -1,0 +1,8 @@
+@FitbitSupport - Syncing Problem
+
+@FitbitSupport, my Fitbit hasn’t been syncing with the app for the past few days. ⌚ I’ve tried restarting the device and reconnecting Bluetooth, but it still won’t update my steps or sleep data. Is there a new update that I missed, or should I try something else?
+
+Visit https://help.fitbit.com for more troubleshooting steps.
+
+#FitbitIssues #SyncingProblems #HealthTracker 😥
+

@@ -1,0 +1,9 @@
+@XboxSupport - Game Downloads Stuck
+
+Xbox gamers are facing issues with game downloads, particularly after a recent update to the Xbox Series X. Some users have reported that their downloads get stuck at 99%, while others are unable to start a download at all. This issue has been particularly frustrating for those looking to play new releases.
+
+Microsoft’s Xbox Support team has been responding to these issues by suggesting users restart their consoles or check their internet connections, but the problem seems more widespread than network issues. Gamers are hoping for a more permanent fix in the upcoming system update.
+
+For more information on resolving download issues, visit https://www.XboxSupport.com
+
+#XboxDownloadIssues #XboxSeriesX
